@@ -104,6 +104,21 @@ Additional real-world operational and booking data would be required before impl
 ## Conclusion
 
 This project demonstrates the application of Python, SQL, KNIME and Power BI to a maritime business problem.
+## Project Limitations
+
+This project uses illustrative charter pricing and revenue
+scenarios for educational and portfolio purposes.
+
+The estimated €2.14 million additional revenue opportunity
+represents a modelled scenario, not verified commercial gains.
+
+Actual revenue performance would depend on charter demand,
+vessel availability, operating costs, seasonal conditions
+and market competition.
+
+Future development could incorporate real-world booking data,
+operational expenditure and predictive forecasting to improve
+commercial decision-making.
 
 It combines technical data analysis with commercial reasoning, financial scenario modelling and business intelligence reporting.
 
